@@ -1,0 +1,15 @@
+Shader Billboard
+Aperium
+https://www.youtube.com/watch?v=qGppGvgw7Dg&ab_channel=Aperium
+
+Billboard Shader Graph
+NovelTech
+https://www.noveltech.dev/unity-billboard-shader-shadergraph/
+
+Matrices
+Jetelly
+https://www.udemy.com/course/draft/2861282/learn/lecture/23048722#overview
+
+Grass Texture
+PNGWing
+https://www.pngwing.com/en/free-png-bveui
